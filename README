@@ -1,4 +1,8 @@
-Sample ingesters for Gravwell.
+# ARCHIVED
+
+This repo has been archived, see the [mono repo](https://github.com/gravwell/gravwell) for current code
+
+### Sample ingesters for Gravwell.
 
 fileFollow: Watches for & ingests updates to specific files/directories, e.g. /var/log/auth.log
 networkLog: Captures & ingests network traffic from interfaces.
